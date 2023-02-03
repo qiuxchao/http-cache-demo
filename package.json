@@ -1,0 +1,15 @@
+{
+  "name": "cache-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etag": "^1.8.1"
+  }
+}

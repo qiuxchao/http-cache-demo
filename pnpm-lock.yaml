@@ -1,0 +1,16 @@
+lockfileVersion: 5.4
+
+specifiers:
+  etag: ^1.8.1
+
+dependencies:
+  etag: registry.npmmirror.com/etag/1.8.1
+
+packages:
+
+  registry.npmmirror.com/etag/1.8.1:
+    resolution: {integrity: sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/etag/-/etag-1.8.1.tgz}
+    name: etag
+    version: 1.8.1
+    engines: {node: '>= 0.6'}
+    dev: false
