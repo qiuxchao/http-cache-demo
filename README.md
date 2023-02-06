@@ -240,6 +240,6 @@ res.writeHead(200,{
 
 - 所有带 `304` 的资源都是协商缓存，所有标注（from memory cache/从内存中读取/from disk cache/从磁盘中读取）的资源都是强缓存。
 
-> 本篇源码：<https://github.com/qiuxchao/http-cache-demo>
+> 示例源码：<https://github.com/qiuxchao/http-cache-demo>
 
 > 本篇参考：[中高级前端工程师都需要熟悉的技能--前端缓存](https://juejin.cn/post/7127194919235485733)
